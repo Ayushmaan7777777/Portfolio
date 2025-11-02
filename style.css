@@ -58,7 +58,7 @@ nav a:hover {
 #hero {
   height: 100vh;
   background: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,1)), 
-              url("/realwaste/images/dmitry-khotsinskiy-Lg7a7JD4Pls-unsplash.jpg") center/cover;
+              url("images/dmitry-khotsinskiy-Lg7a7JD4Pls-unsplash.jpg") center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
